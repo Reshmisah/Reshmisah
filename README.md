@@ -5,7 +5,7 @@
 
 💻 Currently exploring frontend development and learning how to build responsive, user-friendly websites.
 
-🌱 I believe in learning by building and improving through practical projects.
+🌱 I believe in learning by building and improving through practical experience.
 
 🎯 My goal is to grow into a confident Frontend Developer.
 
@@ -24,17 +24,6 @@ Git • GitHub • VS Code
 
 🌱 Currently Learning
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Responsive%20Design-Practicing-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
-🚀 Projects
-
-I'm building projects to turn what I learn into practical experience.
-
-🌐 Portfolio Website
-💻 Frontend Practice Projects
-📚 Student / Academic Projects
-🟨 JavaScript Projects
-
-📂 View My Repositories →
-
 🗺️ Learning Path
 <p align="center"> <b>HTML</b> → <b>CSS</b> → <b>JavaScript</b> → <b>Git/GitHub</b> → <b>React</b> → <b>APIs</b> </p>
 📊 GitHub Stats
