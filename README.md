@@ -1,29 +1,107 @@
-<h1 align="center">Hi 👋, I'm Reshmi Sah</h1>
-<h3 align="center">IT Student and Aspiring Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Reshmi Sah</h1> <h3 align="center">IT Student | Aspiring Frontend Developer 💻</h3> <p align="center"> <i>Learning, building, and growing one project at a time 🌱</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=reshmisah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+👩‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reshmisah&label=Profile%20views&color=0e75b6&style=flat" alt="reshmisah" /> </p>
+I'm an IT student with a growing interest in web development and frontend technologies. I enjoy learning new technologies, experimenting with code, and turning ideas into simple and useful projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reshmisah" alt="reshmisah" /></a> </p>
+🎓 IT Student
+💻 Aspiring Frontend Developer
+🌱 Currently learning HTML, CSS, JavaScript & Git/GitHub
+🎨 Interested in creating responsive and user-friendly websites
+🧩 Enjoy solving problems and learning through projects
+🚀 Working towards becoming a skilled and confident developer
+🎯 Current Focus
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and GitHub**
+I'm currently focusing on building a strong foundation in frontend development.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Reshmisah](https://github.com/Reshmisah)
+🌐 Improving my HTML & CSS skills
+⚡ Learning JavaScript fundamentals
+🔧 Learning Git and GitHub
+📱 Practicing responsive web design
+💻 Building small projects to strengthen my skills
+🧠 Improving programming and problem-solving skills
+📚 Learning how real-world websites are structured and developed
+🛠️ Current Skills
+🌐 Frontend Development
+<p align="left"> <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/> </a> <a href="https://www.w3.org/Style/CSS/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </a> <a href="https://getbootstrap.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/> </a> </p>
 
-- 💬 Ask me about **Web development and student project**
+HTML • CSS • JavaScript • Bootstrap
 
-- 📫 How to reach me **reshmisah108@gmail.com**
+🔧 Tools & Platforms
+<p align="left"> <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> </a> <a href="https://github.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> </a> </p>
 
-- ⚡ Fun fact **I Love Learning new technology**
+Git • GitHub • VS Code
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reshmisah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshmisah" height="30" width="40" /></a>
-</p>
+📚 Currently Learning
+HTML & CSS          ████████████████████  Strong Foundation
+JavaScript          ███████████░░░░░░░░░  Learning
+Git & GitHub        ███████████████░░░░░  Learning
+Responsive Design   ███████████████░░░░░  Practicing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+🗺️ My Learning Roadmap
+HTML
+  ↓
+CSS & Responsive Design
+  ↓
+JavaScript
+  ↓
+Git & GitHub
+  ↓
+Advanced JavaScript
+  ↓
+React
+  ↓
+APIs & Real-world Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshmisah&show_icons=true&locale=en&layout=compact" alt="reshmisah" /></p>
+🚀 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reshmisah&show_icons=true&locale=en" alt="reshmisah" /></p>
+I believe the best way to learn development is by building projects.
 
+🔨 What I'm Working On
+🌐 Frontend practice projects
+💻 Student projects
+🎨 Responsive website designs
+🧩 JavaScript-based projects
+
+More projects will be added as I continue learning and building.
+
+👉 Explore my projects:
+github.com/Reshmisah
+
+🎓 Student Goals
+
+As an IT student, my current goals are to:
+
+📌 Build a strong foundation in programming
+📌 Develop practical web development skills
+📌 Create meaningful personal and academic projects
+📌 Improve problem-solving and logical thinking
+📌 Learn modern frontend technologies
+📌 Contribute to open-source projects
+📌 Build a strong GitHub portfolio
+📌 Prepare for frontend development internships
+📌 Gain real-world development experience
+💡 What I Enjoy
+🌐 Web Development
+🎨 Frontend Design
+💻 Programming
+🧠 Problem Solving
+📚 Learning New Technologies
+🚀 Building Projects
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reshmisah&show_icons=true&hide_border=true&locale=en" alt="Reshmi's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reshmisah&show_icons=true&hide_border=true&locale=en&layout=compact" alt="Reshmi's Top Languages" /> </p>
+🤝 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/reshmisah" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> </p>
+
+📧 Email: reshmisah108@gmail.com
+
+💼 LinkedIn: linkedin.com/in/reshmisah
+
+🐙 GitHub: github.com/Reshmisah
+
+🌱 A Little About My Journey
+
+"Every expert was once a beginner."
+
+I'm currently at the stage of learning, experimenting, making mistakes, and improving every day. My GitHub is a record of that journey — from small practice projects to larger applications as my skills grow.
+
+<p align="center"> <b>Thanks for visiting my profile! ⭐</b> </p> <p align="center"> 🌱 Keep Learning • 💻 Keep Building • 🚀 Keep Growing </p>
